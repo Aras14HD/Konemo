@@ -4,7 +4,7 @@ Stem-Numerus-Declination
 ## Numerus
  - pa - Singular (one)
  - ta - Plural I (multiple)
- - ka - Plural II (a lot)
+ - ka - Plural II (a lot; for uncountable things e.g. sand, water)
 ## Declination
  - ma - Nominative (Actor)
  - na - Akkusative (Actee)
