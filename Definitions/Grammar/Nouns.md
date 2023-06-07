@@ -6,7 +6,7 @@ Stem-Numerus-Declination
  - ta - Plural I (multiple)
  - ka - Plural II (a lot; for uncountable things e.g. sand, water)
 ## Declination
- - ma - Nominative (Actor)
+ - ma - Nominative (Actor; can be left away in informal settings;)
  - na - Akkusative (Actee)
  - nga - Instrumental (Used)
  - mo - Genetive (Owner)
