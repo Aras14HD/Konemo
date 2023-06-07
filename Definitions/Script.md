@@ -11,6 +11,7 @@ Can be mixed:
  - (ue) - ü
  - (ao) -
  - (ou) - w
+Add ' to aspirate them
 ## Konsonants
 ### Plosive
  - p/b
@@ -28,4 +29,4 @@ Can be mixed:
 ### Other
  - h/l
 
-The voicing can be changed from unvoiced x/- to voiced -/x , whith exception of the nasal konsonants.
+The voicing can be changed from unvoiced x/- to voiced -/x , with exception of the nasal consonants.
