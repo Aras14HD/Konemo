@@ -2,10 +2,10 @@
 ## Structure
 Stem-Degree-Comparative
 ## Degree
- - nue - (the least; way less; informal)
- - nu - (little; less)
- - n/no - (normal; equal)
- - na - (very; more)
- - ne - (the most; way more)
+ - nue - Sublative (the least; way less; informal)
+ - nu - Subnormal (little; less)
+ - n/no - Normal (normal; equal)
+ - na - Supernormal (very; more)
+ - ne - Superlative (the most; way more)
 # Comparative
  - f - Comparative (optional; make it a comapration e.g. use second meaning in degree table)
