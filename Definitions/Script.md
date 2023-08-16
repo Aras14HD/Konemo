@@ -30,4 +30,4 @@ Add ' to aspirate them
 ### Other
  - h/l
 
-The voicing can be changed from unvoiced x/- to voiced -/x , with exception of the nasal consonants.
+The voicing can be changed from unvoiced x/- to voiced -/x using ', with exception of the nasal consonants.
