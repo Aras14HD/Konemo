@@ -11,6 +11,7 @@ Can be mixed:
  - (ue) - ü
  - (ao) -
  - (ou) - w
+
 Add ' to aspirate them
 ## Konsonants
 ### Plosive
