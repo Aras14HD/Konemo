@@ -1,10 +1,12 @@
 # Numbers
-- 0 - /_/ - ja
-- 1 - /\_\_ - an
-- 2 - \_\_\ - ko
-- 3 - \_\_/ - ro
-- 4 - \\_\_ - she
-- 5 - \_-\_ - nu
+|digit|written|said
+|-----|-------|----
+|0    |/_/    |ja
+|1    |/\_\_  |an
+|2    |\_\_\  |ko
+|3    |\_\_/  |ro
+|4    |\\_\_  |she
+|5    |\_-\_  |nu
 ## Shift
 Written Small number top right of zeros between. Spoken j-number.
 ## Places
