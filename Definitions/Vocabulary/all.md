@@ -4,8 +4,8 @@
 |an                  |one/sun/you         |number 1            |
 |antma               |minute              |unit time minute    |
 |cha                 |power/air           |operator ^          |
-|cho                 |root/stone          |operator root       |
-|chu                 |log/water           |operator log        |
+|cho                 |root/water          |operator root       |
+|chu                 |log/stone           |operator log        |
 |e                   |equal/similar       |operator =          |
 |fen/fe              |heat                |unit temperature    |
 |he                  |year/birth          |unit time year      |
