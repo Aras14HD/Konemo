@@ -30,3 +30,5 @@
 - hour koj 1/12 tide cycle (1/24 na)
 - minute antma 1/60 koj
 - second kotma 1/60 antpe
+## Prefix
+to have a prefix like k,M,G,m,µ,etc. the number of zeroes is put at the end of the number (negative for smaller)
