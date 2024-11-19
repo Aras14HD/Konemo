@@ -8,7 +8,7 @@
 |chu                 |log/stone           |operator log        |
 |e                   |equal/similar       |operator =          |
 |fen/fe              |heat                |unit temperature    |
-|he                  |year/birth          |unit time year      |
+|he                  |year/time/age       |unit time year      |
 |hong/ho             |weight/heavy        |unit mass           |
 |ja                  |zero/nothing        |number 0            |
 |jo                  |truth,yes,to be, thing| in special       |
@@ -16,7 +16,7 @@
 |ken/ke              |length/long         |unit length         |
 |ko                  |two/moon/month      |number 2            |
 |koj                 |hour                |unit time hour      |
-|kotma/ko            |time/age/second     |unit time           |
+|kotma/ko            |second              |unit time           |
 |ma                  |multiply            |operator *          |
 |mo                  |divide              |operator /          |
 |na                  |night/sleep         |unit time day       |
