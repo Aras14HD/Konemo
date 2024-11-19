@@ -4,6 +4,7 @@
 |an                  |one/sun/you         |number 1            |
 |antma               |minute              |unit time minute    |
 |cha                 |power/air           |operator ^          |
+|che                 |fire                |
 |cho                 |root/water          |operator root       |
 |chu                 |log/stone           |operator log        |
 |e                   |equal/similar       |operator =          |
