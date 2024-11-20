@@ -12,7 +12,7 @@ Stem-Activeness-Mood-Tense-Negation
  - ba - Interrogative (Question; can be appended to Conjuctive to ask if action should be done)
 ## Tense
  - / - Present
- - nu - Past
+ - n(ue) - Past
  - n(ao) - Future
 Can all be stacked indefinately. Following tenses are relative to the previous.
 ## Negation
