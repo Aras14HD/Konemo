@@ -8,8 +8,8 @@
  - k(eo)' - start (often written .)
  - (eo)'k - end (often written ,)
 ## Substitutions
- - ma-(noun ending) - noun substitution
- - na-(adjective ending) - adjective substitution
+ - me-(noun ending) - noun substitution
+ - ne-(adjective ending) - adjective substitution
 
 Make a block (with verb) act as a noun/adjective. Used for example similar to Attributive sentences, Relative sentences. At beginning of block.
 ## Relationals
