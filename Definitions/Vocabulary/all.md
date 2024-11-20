@@ -10,19 +10,37 @@
 |ang                 |it/they             |pronoun             |
 |(ao)                |and                 |particle            |
 |(au)o               |what/where/etc.     |particle            |
+|ba                  |question            |based of mood       |
+|be                  |statement/opinion   |based of mood       |
 |cha                 |power/air           |operator ^          |
 |che                 |fire                |
 |cho                 |root/water          |operator root       |
 |chu                 |log/stone           |operator log        |
 |da                  |that                |pronoun             |
+|de                  |command             |based of mood       |
 |du                  |which               |pronoun             |
 |e                   |equal/similar       |operator =          |
 |fen/fe              |heat                |unit temperature    |
+|ge                  |possibility         |based of mood       |
+|gek                 |impossibility       |based of mood       |
 |go                  |then                |particle            |
 |he                  |year/time/age       |unit time year      |
 |hong/ho             |weight/heavy        |unit mass           |
 |ja                  |zero/nothing        |number 0            |
-|jo                  |truth,yes,to be, thing| in special       |
+|jo                  |truth/yes/to be/thing| in special        |
+|joma                |actor/active        |based of decl       |
+|jomo                |owner/to own        |based of decl       |
+|jona                |actee/passive       |based of decl       |
+|jone                |called/call         |based of decl       |
+|jonga               |object/use          |based of decl       |
+|jongoa              |container/building  |based of decl       |
+|jongoe              |location            |based of decl       |
+|jongoka             |present             |based of decl       |
+|jongoke             |future              |based of decl       |
+|jongoko             |past                |based of decl       |
+|jongopo             |cause               |based of decl       |
+|jongopa             |prevention          |based of decl       |
+|ka                  |crowd/mass          |based of numerus    |
 |kare/ka             |energy/life         |unit energy         |
 |ken/ke              |length/long         |unit length         |
 |ko                  |two/moon/month      |number 2            |
@@ -36,9 +54,10 @@
 |nu                  |no/five/human       |case of jo,number 5 |
 |(oe)'k              |                    |particle block end  |
 |og                  |after/because       |particle            |
+|pa                  |single/one          |based of numerus    |
 |pengo/pe            |resistance          |unit resistance     |
 |ro                  |three/star          |number 3            |
 |shang/sha           |charge/full         |unit charge         |
 |she                 |four/earth          |number 4            |
-|ta                  |add                 |operator +          |
+|ta                  |add/group           |operator +          |
 |to                  |take away           |operator -          |
