@@ -5,8 +5,11 @@ Stem-Inclusive-noun_end-Tense (if the noun end is left away it is assumed to be 
  - am - 1. Person (Speaker)
  - an - 2. Person (Spoken to)
  - a(ng) - 3. Person (Other/Spoken about)
+ - da - Definite (Specific/Pointed to)
+ - du - Interrogative (asks for pronoun use)
 ## Inclusive
  - o - include the speaker (optional; used in plural)
 ## Tense
 Tense markers of verbs are often used to remove ambiguity. Present would be equivalent to last noun, Past to the one before, Past-Past to the one before that, etc.
-It's is frowned upon by some as not proper grammar, but allowed even in formal language.
+It's is frowned upon by some as not proper grammar, but allowed even in formal language. 
+On the definit pronoun it may be used to signal distance
