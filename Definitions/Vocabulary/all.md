@@ -14,6 +14,8 @@
 |che                 |fire                |
 |cho                 |root/water          |operator root       |
 |chu                 |log/stone           |operator log        |
+|da                  |that                |pronoun             |
+|du                  |which               |pronoun             |
 |e                   |equal/similar       |operator =          |
 |fen/fe              |heat                |unit temperature    |
 |go                  |then                |particle            |
