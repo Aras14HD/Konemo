@@ -17,4 +17,4 @@ Make a block (with verb) act as a noun/adjective. Used for example similar to At
 
 Used instead of unwieldy causal ablative noun substitution and in conditional sentences. They connect two blocks containing verbs.
 ## Other
- - (au)o-(noun ending) - question subject (in place of the word asked for)
+ - (au)o-ending - question subject (in place of the word asked for)
