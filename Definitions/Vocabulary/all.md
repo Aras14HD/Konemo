@@ -27,6 +27,8 @@
 |ebo                 |home                |
 |fen/fe              |heat                |unit temperature    |
 |fenjo               |heater/fireplace    |compund             |
+|ful                 |good                |
+|fulka               |well of             |
 |ge                  |possibility         |based of mood       |
 |gek                 |impossibility       |based of mood       |
 |go                  |then                |particle            |
