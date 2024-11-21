@@ -66,6 +66,7 @@
 |pa                  |single/one          |based of numerus    |
 |pengo/pe            |resistance          |unit resistance     |
 |pengojo             |resistor            |compund             |
+|ra                  |again (adj),reocurr |
 |ro                  |three/star          |number 3            |
 |roebo               |universe/sky        |compound            |
 |shang/sha           |charge/full         |unit charge         |
