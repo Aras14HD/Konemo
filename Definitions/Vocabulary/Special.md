@@ -14,3 +14,8 @@
 |jobk |        |might be/if were
 |ju   |        |is?
 |jo-noun_end|  |thing
+## so - to make
+|word|english   |
+|----|----------|
+|se  |make!     |
+|su  |is making?|

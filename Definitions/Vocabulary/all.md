@@ -62,6 +62,8 @@
 |mo                  |divide              |operator /          |
 |na                  |night/sleep         |unit time day       |
 |najo                |bed                 |compund             |
+|ngek                |see                 |
+|ngeknube            |hidden-speech       |compund             |
 |nu                  |no/five/human       |case of jo,number 5 |
 |(oe)'k              |                    |particle block end  |
 |og                  |after/because       |particle            |
