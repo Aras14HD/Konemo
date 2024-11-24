@@ -58,9 +58,9 @@
 |k(oe)'              |                    |particle block start|
 |koj                 |hour                |unit time hour      |
 |kotma/ko            |second              |unit time           |
-|ma                  |multiply            |operator *          |
+|ma                  |divide              |operator /          |
 |me                  |                    |paricle noun sub    |
-|mo                  |divide              |operator /          |
+|mo                  |multiply            |operator *          |
 |na                  |night/sleep         |unit time day       |
 |najo                |bed                 |compund             |
 |ngek                |see                 |
