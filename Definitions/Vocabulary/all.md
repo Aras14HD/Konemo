@@ -37,6 +37,7 @@
 |hongjo              |gravity             |compund             |
 |ja                  |zero/nothing        |number 0            |
 |jo                  |truth/yes/to be/thing| in special        |
+|jobe                |agree               |compound            |
 |joma                |actor/active        |based of decl       |
 |jomo                |owner/to own        |based of decl       |
 |jona                |actee/passive       |based of decl       |
