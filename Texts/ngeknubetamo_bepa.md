@@ -9,10 +9,10 @@ statement on hidden-speechs
 
 Statement on Codes/Dogwhistles
 ## Text
-BS (human-SUBNRM/55)-NRM-CMP see-SUBNRM-statement-PLU1 good-SUBNRM-ACT human-PLU1 and life/energy-SING-AKK BE
+BS (human-SUBNRM/35)-NRM-CMP see-SUBNRM-statement-PLU1 good-SUBNRM-ACT human-PLU1 and life/energy-SING-AKK BE
 
-subhuman-/55-like hiddenspeechs worsen humans and life
+subhuman-/35-like hiddenspeechs worsen humans and life
 
-Dogwhistles like "55" worsen people and life.
+Dogwhistles like "35" worsen people and life.
 
 BS
