@@ -1,6 +1,6 @@
 # ngeknubetamo bepa
 .nununof ngeknubeta fulnungo nuta (ao) !karepana,
-.
+.da jobenga nukana,
 # Translation
 ## Title
 see-SUBNRM-statement-PLU1-GEN statement-SINGs
@@ -15,4 +15,8 @@ subhuman-/35-like hiddenspeechs worsen humans and life
 
 Dogwhistles like "35" worsen people and life.
 
-BS
+BS INDPRN yes-state-PAS human-PLU2-AKK BE
+
+That is yes-said by many people
+
+That is agreed upon by most.
