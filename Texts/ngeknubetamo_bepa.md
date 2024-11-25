@@ -25,4 +25,6 @@ That is agreed upon by most.
 
 BS they-PLU1 be SUB-PLU1-AKK statement-SING statement-ACT thing-SING and good-SUBNRM again-thing-SING BE BE
 
-they are statements, that mean both one thing and another bad thing.
+they are, when a statement says thing and bad other-thing
+
+They are statements, that mean both one thing and another bad thing.
