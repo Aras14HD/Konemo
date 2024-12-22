@@ -58,6 +58,8 @@
 |k(oe)'              |                    |particle block start|
 |koj                 |hour                |unit time hour      |
 |kotma/ko            |second              |unit time           |
+|le                  |tought/smart        |
+|lu                  |light               |
 |ma                  |divide              |operator /          |
 |me                  |                    |paricle noun sub    |
 |mo                  |multiply            |operator *          |
@@ -72,6 +74,7 @@
 |pengo/pe            |resistance          |unit resistance     |
 |pengojo             |resistor            |compund             |
 |ra                  |again (adj),reocurr |
+|ram                 |color               |
 |ro                  |three/star          |number 3            |
 |roebo               |universe/sky        |compound            |
 |shang/sha           |charge/full         |unit charge         |
