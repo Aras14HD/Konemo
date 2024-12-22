@@ -6,6 +6,7 @@
 |(ae)                |not                 |particle            |
 |am                  |I/we                |pronoun             |
 |an                  |one/sun/you         |number 1            |
+|anr                 |yellow              |compund short       |
 |anebo               |sky(day)            |compund             |
 |antma               |minute              |unit time minute    |
 |ang                 |it/they             |pronoun             |
@@ -16,10 +17,13 @@
 |cha                 |power/air           |operator ^          |
 |chajo               |fan                 |compound            |
 |che                 |fire                |
+|cher                |red/orange          |compund short       |
 |chejo               |lighter             |compound            |
 |cho                 |root/water          |operator root       |
+|chor                |clear/tourquis      |compound short      |
 |chojo               |well/spring         |compund             |
 |chu                 |log/stone           |operator log        |
+|chur                |grey                |compound short      |
 |da                  |that                |pronoun             |
 |de                  |command             |based of mood       |
 |du                  |which               |pronoun             |
@@ -28,6 +32,8 @@
 |fen/fe              |heat                |unit temperature    |
 |fenjo               |heater/fireplace    |compund             |
 |ful                 |good                |
+|fulbe               |praise              |compound            |
+|fulnube             |shame               |compound            |
 |fulka               |well of             |
 |ge                  |possibility         |based of mood       |
 |gek                 |impossibility       |based of mood       |
@@ -52,14 +58,20 @@
 |jongopa             |prevention          |based of decl       |
 |ka                  |crowd/mass          |based of numerus    |
 |kare/ka             |energy/life         |unit energy         |
+|karer               |green               |compound short      |
 |ken/ke              |length/long         |unit length         |
 |ko                  |two/moon/month      |number 2            |
+|kor                 |blue                |compound short      |
 |koebo               |sky/heaven          |compund             |
 |k(oe)'              |                    |particle block start|
 |koj                 |hour                |unit time hour      |
 |kotma/ko            |second              |unit time           |
 |le                  |tought/smart        |
+|lenanu              |genius              |compound            |
+|lenunu              |fool                |compound            |
 |lu                  |light               |
+|lur                 |white               |compound short      |
+|lunur               |black               |compound short      |
 |ma                  |divide              |operator /          |
 |me                  |                    |paricle noun sub    |
 |mo                  |multiply            |operator *          |
