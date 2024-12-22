@@ -58,6 +58,7 @@
 |jongopa             |prevention          |based of decl       |
 |ka                  |crowd/mass          |based of numerus    |
 |kare/ka             |energy/life         |unit energy         |
+|karecho             |blood               |compound            |
 |karer               |green               |compound short      |
 |ken/ke              |length/long         |unit length         |
 |ko                  |two/moon/month      |number 2            |
