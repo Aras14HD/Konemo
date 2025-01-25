@@ -35,6 +35,9 @@
 |fulbe               |praise              |compound            |
 |fulnube             |shame               |compound            |
 |fulka               |well of             |
+|gad                 |fate                |
+|gadna               |luck                |compound            |
+|gadnu               |bad luck            |compound            |
 |ge                  |possibility         |based of mood       |
 |gek                 |impossibility       |based of mood       |
 |go                  |then                |particle            |
@@ -52,8 +55,12 @@
 |jongoa              |container/building  |based of decl       |
 |jongoe              |location            |based of decl       |
 |jongoka             |present             |based of decl       |
-|jongoke             |future              |based of decl       |
-|jongoko             |past                |based of decl       |
+|jongok(ao)          |top                 |based of decl       |
+|jongok(ae)          |bottom              |based of decl       |
+|jongoke             |future/back         |based of decl       |
+|jongoko             |past/front          |based of decl       |
+|jongok(oe)          |right               |based of decl       |
+|jongok(ue)          |left                |based of decl       |
 |jongopo             |cause               |based of decl       |
 |jongopa             |prevention          |based of decl       |
 |ka                  |crowd/mass          |based of numerus    |
