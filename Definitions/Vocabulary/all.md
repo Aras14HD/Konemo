@@ -85,8 +85,10 @@
 |mo                  |multiply            |operator *          |
 |na                  |night/sleep         |unit time day       |
 |najo                |bed                 |compund             |
+|nga                 |passive/be done upon|based of act        |
 |ngek                |see                 |
 |ngeknube            |hidden-speech       |compund             |
+|ngo                 |active/do           |based of act        |
 |nu                  |no/five/human       |case of jo,number 5 |
 |(oe)'k              |                    |particle block end  |
 |og                  |after/because       |particle            |
