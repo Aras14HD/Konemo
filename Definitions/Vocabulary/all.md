@@ -14,6 +14,7 @@
 |(au)o               |what/where/etc.     |particle            |
 |ba                  |question            |based of mood       |
 |be                  |statement/opinion   |based of mood       |
+|bejo                |word/script         |compound            |
 |cha                 |power/air           |operator ^          |
 |chajo               |fan                 |compound            |
 |che                 |fire                |
