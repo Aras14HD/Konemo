@@ -103,5 +103,5 @@
 |shang/sha           |charge/full         |unit charge         |
 |she                 |four/earth          |number 4            |
 |sheebo              |ground/land         |compound            |
-|ta                  |add/group           |operator +          |
+|ta                  |add/make/group      |operator +          |
 |to                  |take away           |operator -          |
