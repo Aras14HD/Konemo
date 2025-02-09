@@ -11,6 +11,7 @@
 me-ending 
 
 Make a block (with verb) act as a noun/adjective. Used for example similar to Attributive sentences, Relative sentences. At beginning of block.
+As it may not be used in a compound word, more parts can be dropped, like activeness and ablative "ngo".
 ## Relationals
  - go - then
  - og - after/because

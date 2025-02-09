@@ -23,3 +23,5 @@ Stem-Numerus-Declination
     - ka - Simlutative (while; next to)
     - po - Causitative (because)
     - pa - Anticausitative (despite)
+    - to - Intentative (for; to have)
+    - ta - AntiIntentative (against; to not have)
