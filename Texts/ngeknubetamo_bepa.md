@@ -2,10 +2,10 @@
 .nununof ngeknubeta fulnungo nuta (ao) !karepana,
 .da jobenga nukana,
 .angta jong metana bepa bengo jopa (ao) fulnu rajopanga,,
-.dapanga angta bejobengo angtana mepangoka ngeknungo angpanga reangta (ao) jongopango fulnubetana,,
+.dapanga angta bejobengo angtana mengoka ngeknungo angpanga reangta (ao) jongopango fulnubetana,,
 
 .dakangopa nununuf ngeknubata jong,
-.ngeknubeta bengoge mepana bengo ngeknu jota, a mepana !fulno ngeknungo beta,,
+.ngeknubeta bengoge mepana bengo ngeknu jota, a mena !fulno ngeknungo beta,,
 .mepa ngeknungo jopanga reangta (ao) jongopango fulnubetana, job (ae) fulnu job fulno.
 # Translation
 ## Title
