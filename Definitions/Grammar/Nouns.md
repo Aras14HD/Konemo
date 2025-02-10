@@ -25,3 +25,6 @@ Stem-Numerus-Declination
     - pa - Anticausitative (despite)
     - to - Intentative (for; to have)
     - ta - AntiIntentative (against; to not have)
+
+Multiple Declinations may be used. (Instrumental then may not be last)
+Proximative and Continative Ablatives may be pre-/postpended to other Ablatives.
