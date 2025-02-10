@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1734519155
-ModificationTime: 1737537813
+ModificationTime: 1739170171
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 80 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 1153434 576716 384477 445645 1048576 384477 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1877,11 +1877,22 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 90
-Width: 1100
+Width: 100
+VWidth: 200
 Flags: W
+HStem: -125 250<0.197601 49.8024>
+VStem: 0 50<-124.802 124.802>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+25 -125 m 0
+ 11 -125 0 -114 0 -100 c 2
+ 0 100 l 2
+ 0 114 11 125 25 125 c 0
+ 39 125 50 114 50 100 c 2
+ 50 -100 l 2
+ 50 -114 39 -125 25 -125 c 0
+EndSplineSet
 EndChar
 
 StartChar: semicolon

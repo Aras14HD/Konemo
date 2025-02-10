@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1734519155
-ModificationTime: 1734952515
+ModificationTime: 1739170296
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1796,10 +1796,21 @@ EndChar
 StartChar: colon
 Encoding: 58 58 95
 Width: 500
-Flags: HW
+VWidth: 200
+Flags: W
+HStem: -125 250<225.198 274.802>
+VStem: 225 50<-124.802 124.802>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+250 -125 m 0
+ 236 -125 225 -114 225 -100 c 2
+ 225 100 l 2
+ 225 114 236 125 250 125 c 0
+ 264 125 275 114 275 100 c 2
+ 275 -100 l 2
+ 275 -114 264 -125 250 -125 c 0
+EndSplineSet
 EndChar
 
 StartChar: semicolon
