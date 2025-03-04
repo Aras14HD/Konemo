@@ -19,3 +19,19 @@
 |----|----------|
 |se  |make!     |
 |su  |is making?|
+## pa/ta/ka - number determiners
+Ordered least to most
+|word|english|
+|----|-------|
+|pane|the one and only|
+|pana|the one|
+|pan |one    |
+|panu|the    |
+|tanu|a few  |
+|tan |several|
+|tana|a bunch|
+|tane|quite a few|
+|tanu|a few  |
+|kan |many   |
+|kana|most   |
+|kane|all    |
