@@ -1,12 +1,12 @@
 # ngeknubetamo bepa
 .nununof ngeknubeta fulnungo nuta (ao) !karepana,
 .da jobenga nukana,
-.angta jong metana bepa bengo jopa (ao) fulnu rajopanga,,
-.dapanga angta bejobengo angtana mengoka ngeknungo angpanga reangta (ao) jongopango fulnubetana,,
+.angta jong .metana bepa bengo jopa (ao) fulnu rajopanga,,
+.dapanga angta bejobengo angtana .mengoka ngeknungo angpanga reangta (ao) jongopango fulnubetana,,
 
 .dakangopa nununuf ngeknubata jong,
-.ngeknubeta bengoge mepana bengo ngeknu jota, a mena !fulno ngeknungo beta,,
-.mepa ngeknungo jopanga reangta (ao) jongopango fulnubetana, job (ae) fulnu job fulno.
+.ngeknubeta bengoge .mepana bengo ngeknu jota, a .mena !fulno ngeknungo beta,,
+..mepa ngeknungo jopanga reangta (ao) jongopango fulnubetana, job (ae) fulnu job fulno.
 # Translation
 ## Title
 see-SUBNRM-statement-PLU1-GEN statement-SINGs
@@ -27,13 +27,13 @@ That is yes-said by many people
 
 That is agreed upon by most.
 
-BS they-PLU1 be SUB-PLU1-AKK statement-SING statement-ACT thing-SING and good-SUBNRM again-thing-SING-INST BE BE
+BS they-PLU1 be BS SUB-PLU1-AKK statement-SING statement-ACT thing-SING and good-SUBNRM again-thing-SING-INST BE BE
 
 they are, when a statement says thing and bad other-thing
 
 They are statements, that mean both one thing and another bad thing.
 
-BS that-SING-INST they-PLU1 statement-yes-statement-ACT they-PLU1-AKK SUB-SING-ABL-SIM see-SUBNRM-ACT they-SING-INST again-they-PLU1 and thing-ABL-PREV-ACT good-SUBNRM-statement-PLU1-AKK BE BE
+BS that-SING-INST they-PLU1 statement-yes-statement-ACT they-PLU1-AKK BS SUB-SING-ABL-SIM see-SUBNRM-ACT they-SING-INST again-they-PLU1 and thing-ABL-PREV-ACT good-SUBNRM-statement-PLU1-AKK BE BE
 
 through that they say-yes-say to them, while hide it to other them and prevent bad-say
 
@@ -45,13 +45,13 @@ despite that all subhuman-/35-unlike hiddenspeechs are
 
 Despite all of this "hidden speech" unlike "35" exists.
 
-BS see-SUBNRM-statement-PLU1 statement-ACT-CONJ SUB-SING-AKK statement-ACT see-SUBNRM be-PLU1 BE or SUB-SING-AKK good-NRM see-SUBNRM-ACT statement-PLU1 BE BE
+BS see-SUBNRM-statement-PLU1 statement-ACT-CONJ BS SUB-SING-AKK statement-ACT see-SUBNRM be-PLU1 BE or BS SUB-SING-AKK good-NRM see-SUBNRM-ACT statement-PLU1 BE BE
 
 hiddenspeechs can say, that say hidden things, or, that good hide statements,
 
 "hidden speech" can also mean, that you speak secrets, or, that you do hide your statements, but in a good way.
 
-BS SUB-SING see-SUBNRM-ACT thing-SING-INST again-they-PLU1 and thing-ABL-PREV-ACT good-SUBNRM-statement-PLU1-AKK BE can be not good-SUBNRM can be good-NRM BE
+BS BS SUB-SING see-SUBNRM-ACT thing-SING-INST again-they-PLU1 and thing-ABL-PREV-ACT good-SUBNRM-statement-PLU1-AKK BE can be not good-SUBNRM can be good-NRM BE
 
 that hide thing to other them and prevent bad-say, can be not bad can be good.
 
