@@ -2,7 +2,7 @@
 ## Structure
 Stem-Numerus-Declination
 ## Numerus
- - pa - Singular (one; can be left away if a declination is defined (not instrumental))
+ - pa - Singular (one; can be left away if a declination is defined (not instrumental or Akkusative))
  - ta - Plural I (multiple)
  - ka - Plural II (a lot; for uncountable things e.g. sand, water)
 ## Declination
