@@ -136,3 +136,24 @@ Add ' to aspirate them
 |h/l      |<>
 
 The voicing can be changed from unvoiced x/- to voiced -/x, with exception of the nasal consonants.
+
+## Tactile Script
+The tactile script for blind people is a direct translation from the written script.
+
+It is constructed by reducing every line to its midpoint, except the vertical full line which is turned into a dot at its top,
+and adding an indexing dot at the bottom point.
+
+```
+ /    \   /|
+/__    \ / |
+       / \ |
+      /   \|
+```
+translates to
+```
+          .
+ .     . .
+  .
+       . .
+  .   .   .
+```
