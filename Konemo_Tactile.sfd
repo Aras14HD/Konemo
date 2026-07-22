@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Konemo_Tactile
 FullName: Konemo Tactile
-FamilyName: Konemo
+FamilyName: Konemo_Tactile
 Weight: Book
 Copyright: Copyright (c) 2024, Jorim
 Version: 001.000
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1734519155
-ModificationTime: 1777466560
+ModificationTime: 1777656189
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
