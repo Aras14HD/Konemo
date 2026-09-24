@@ -1,8 +1,8 @@
 # Definitions
 This folder defines the Language.
 
-[[Phonetics]] defines what sounds can be articulated.
-[[Script]] defines how letters are written.
-[[README#Grammar]]] defines how words and senteces are built.
-[[README#Vocabulary]] defines which words exist.
-[[README#Math]] defines the number and unit systems.
+[Phonetics](Phonetics.md) defines what sounds can be articulated.
+[Script](Script.md) defines how letters are written.
+[Grammar](Grammar/README.md)] defines how words and senteces are built.
+[Vocabulary](Vocabulary/README.md) defines which words exist.
+[Math](Math/README.md) defines the number and unit systems.
